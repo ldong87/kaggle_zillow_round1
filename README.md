@@ -1,6 +1,6 @@
 # kaggle_zillow_round1
 
-This repo documents my model for the Zillow competition round 1 on Kaggle and summarizes lessons learned.
+This repo documents my model for the Zillow competition round 1 on Kaggle (https://www.kaggle.com/c/zillow-prize-1) and summarizes lessons learned.
 
 data_transform.py cleans data.
 
